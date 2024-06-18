@@ -1,0 +1,4 @@
+The first test vector is closest to the 3th initial vector.
+Cosine similarity: 0.9914727807044983
+The second test vector is closest to the 5th initial vector.
+Cosine similarity: 0.9899827837944031
